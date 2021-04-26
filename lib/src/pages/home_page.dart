@@ -11,7 +11,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
         appBar: AppBar(
           centerTitle: false, // para que no este centrado el title
-          title: Text('Nuevas peliculas'),
+          title: Text('Nuevas Peliculas'),
           backgroundColor: Colors.indigoAccent,
           actions: <Widget>[
             IconButton(
